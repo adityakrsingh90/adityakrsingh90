@@ -1,7 +1,7 @@
-# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Aditya kumar singh!](https://mgshubham90.github.io/)<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mgshubham90&label=Visitors&color=red&style=plastic" alt="mgshubham90"/>
-<a href="https://github.com/mgshubham90">
-  <img align="left" alt="Aditya's Github Followers" height="18px" src="https://img.shields.io/github/followers/mgshubham90?label=Follower"/>
+# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Aditya kumar singh!](https://adityakrsingh90.github.io/)<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=adityakrsingh90&label=Visitors&color=red&style=plastic" alt="adityakrsingh90"/>
+<a href="https://github.com/adityakrsingh90">
+  <img align="left" alt="Aditya's Github Followers" height="18px" src="https://img.shields.io/github/followers/adityakrsingh90?label=Follower"/>
 </a>
 </p>
 i am looking for a  role where i can grow and continue to learn from other experienced
@@ -13,15 +13,15 @@ i am looking for a  role where i can grow and continue to learn from other exper
 ### 🌱 I’m currently learning everything
 
 ## My GitHub Stats
-<a href="https://github.com/mgshubham90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgshubham90&theme=tokyonight&hide_langs_below=1" />
+<a href="https://github.com/adityakrsingh90">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakrsingh90&theme=tokyonight&hide_langs_below=1" />
 </a>
-<a href="https://github.com/mgshubham90">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgshubham90&show_icons=true&theme=tokyonight&line_height=27" alt="Aditya's github stats"/>
+<a href="https://github.com/adityakrsingh90">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakrsingh90&show_icons=true&theme=tokyonight&line_height=27" alt="Aditya's github stats"/>
 </a>
 
 ## My GitHub Streak
-![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=mgshubham90&theme=tokyonight)
+![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=adityakrsingh90&theme=tokyonight)
 
  
 ## 📫 How to reach me : 
